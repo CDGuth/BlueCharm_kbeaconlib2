@@ -1,0 +1,16 @@
+PODS:
+  - kbeaconlib2 (1.0.1)
+
+DEPENDENCIES:
+  - kbeaconlib2 (from `../`)
+
+EXTERNAL SOURCES:
+  kbeaconlib2:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  kbeaconlib2: 57439cb591536cf313932df685cae4bb3e6d00c6
+
+PODFILE CHECKSUM: 1e1ed64495ee87a264ff8c3a9ca9cc52036a4ec6
+
+COCOAPODS: 1.10.0

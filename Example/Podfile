@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'kbeaconlib2_Example' do
+  pod 'kbeaconlib2', :path => '../'
+
+  target 'kbeaconlib2_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
